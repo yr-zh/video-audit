@@ -1,0 +1,8 @@
+requests
+flask
+opencv-python
+opencv-python-headless
+h5py
+scikit-learn
+tensorboard
+jieba
